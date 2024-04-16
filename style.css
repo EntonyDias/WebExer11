@@ -1,0 +1,23 @@
+body{
+    background-color: rebeccapurple;
+}
+
+#Poppy {
+background-color: var(--cor-primaria);
+color: purple;
+font-family: var(--fonte-primaria);
+padding: var(--padding-padrao);
+margin: var(--margem-padrao);
+}
+
+#poppy {
+    background-color: var(--cor-primaria);
+    color: purple;
+    font-family: var(--fonte-primaria);
+    padding: var(--padding-padrao);
+    margin: var(--margem-padrao);
+    }
+
+.fundo {
+background-color: var(--cor-secundaria);
+}
